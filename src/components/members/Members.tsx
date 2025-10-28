@@ -27,7 +27,7 @@ const amembers = [
     {
         index: 3,
         title: "General Secretary",
-        image: "/fatima.jpg"
+        image: "/fatima.png"
     },
     {
         index: 4,
